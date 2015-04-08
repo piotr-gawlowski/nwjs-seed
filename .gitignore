@@ -1,0 +1,5 @@
+frontend/vendor
+frontend/js
+frontend/css
+node_modules
+.idea
